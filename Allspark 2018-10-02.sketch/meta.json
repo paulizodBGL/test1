@@ -1,0 +1,139 @@
+{
+  "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+  "build" : 67048,
+  "version" : 112,
+  "fonts" : [
+    "SunCTM-Regular",
+    "SunCTM-Bold"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "44fbd80fbaed5dccd549e2fcf407dc48b5b4a84e",
+    "appVersion" : "52.1",
+    "build" : 67048,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67048"
+  ],
+  "appVersion" : "52.1",
+  "pagesAndArtboards" : {
+    "3F5B2D6A-5F4C-4ECA-B976-4FBD6B0A79E1" : {
+      "name" : "New V1",
+      "artboards" : {
+        "1EA10B16-2720-40A6-A0EB-F24CC569DC13" : {
+          "name" : "Edit Mapping V1\/Addons"
+        },
+        "1EA759D5-614C-43DB-87F6-7BFB059D9280" : {
+          "name" : "Providers V1"
+        },
+        "5CAEFA6C-7849-44FF-AEB2-5461263CBEEA" : {
+          "name" : "Edit Mapping V1\/Conditions\/Expanded"
+        },
+        "1AEAB4A3-EAB0-4259-9DCD-BD4082A2DCAC" : {
+          "name" : "Edit Mapping V1\/Addons\/edit"
+        },
+        "E3F5A89F-9CCA-4932-8A99-8A5C93618635" : {
+          "name" : "Edit Mapping V1"
+        },
+        "C4880B12-99E8-43AD-A5A4-462AB01BA54D" : {
+          "name" : "Minimized Sidebars"
+        },
+        "A8A40AE7-C0B7-474B-AA7B-418EBFB41A6F" : {
+          "name" : "Landing Page"
+        },
+        "37FC9CD4-83C0-449F-B4E9-D45644404B8A" : {
+          "name" : "Schemas V1\/template\/v1"
+        },
+        "52DDA6B6-F494-4638-86C4-D7C76DA80617" : {
+          "name" : "Schemas V1"
+        },
+        "A090631E-98A0-4AAF-9ECF-1EF01C10AEFB" : {
+          "name" : "Edit Mapping V1\/Conditions\/Expanded\/Edit"
+        }
+      }
+    },
+    "EA11C9CA-DB0F-4938-9846-809E3EF7C993" : {
+      "name" : "Symbols",
+      "artboards" : {
+        "F22DADF4-BE63-4602-A5DB-ED35F2B08AEE" : {
+          "name" : "Icon-Button\/Danger"
+        },
+        "0E815D32-DD79-47BC-94F0-CCBB5DCB14ED" : {
+          "name" : "Provider Box"
+        },
+        "F5564568-19CA-4BED-9CE6-321D4F62210B" : {
+          "name" : "Provider Block v2"
+        },
+        "99B31965-0546-424E-8CCD-F83D1314B9C9" : {
+          "name" : "Button"
+        },
+        "80697729-44BF-4759-85B4-3AB415E5913E" : {
+          "name" : "Input"
+        },
+        "BDF31009-92FB-4AEC-979C-A12268E78A40" : {
+          "name" : "Provider Box V1\/Locked"
+        },
+        "5FC1C502-D475-464A-81DE-D07DA56D37F2" : {
+          "name" : "Button\/CTA"
+        },
+        "AC34BB80-7A70-42BF-BAB3-16F603811604" : {
+          "name" : "Provider Box V1"
+        },
+        "D2C037E0-23FB-4805-AC88-051D59A23B98" : {
+          "name" : "Dropdown"
+        },
+        "96F93F18-28EB-4681-895B-569124EBA553" : {
+          "name" : "main-input"
+        },
+        "C4AD66C7-29F0-45C0-AA83-8CC9E57EBB99" : {
+          "name" : "sub-task-button"
+        },
+        "7525AEF8-7D7C-4569-A302-717BEC1492E5" : {
+          "name" : "Dropdown"
+        },
+        "BD0D1698-1C42-4DAF-8467-82C750AE9745" : {
+          "name" : "Provider Block v2\/locked"
+        },
+        "1544DBEA-FB95-4CD4-94FD-4C7DF795D4BF" : {
+          "name" : "Icon-Button"
+        },
+        "99B6D2C3-3C32-4425-A62D-8A8B987D9BF8" : {
+          "name" : "main-dropdown"
+        }
+      }
+    },
+    "6560E151-997D-447E-A29A-A38513AA69D7" : {
+      "name" : "Archive",
+      "artboards" : {
+        "3733E55B-ECA2-42C0-9325-C58B7871D1BE" : {
+          "name" : "Schema Copy"
+        },
+        "2991D39B-B54A-454B-B1A4-4C4DDE72B058" : {
+          "name" : "Providers V3"
+        },
+        "46F936FA-5B9C-4110-BEAA-09400D7F0265" : {
+          "name" : "Providers V2"
+        },
+        "6A9B73F3-493F-4B9C-82A6-75F87BF37D53" : {
+          "name" : "Providers"
+        },
+        "F48702C7-99CC-43B8-A65D-A0ACA54C8A56" : {
+          "name" : "Schemas V1\/template\/v3"
+        },
+        "C6E351B9-D966-4879-873C-64E8BF429EB4" : {
+          "name" : "Schemas V1\/template\/v2"
+        },
+        "A44AB4B3-8C5F-4D09-84CB-83F6EFB2D944" : {
+          "name" : "Schema"
+        }
+      }
+    }
+  }
+}
